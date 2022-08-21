@@ -38,6 +38,7 @@ After that connect to database and insert new direction from Left.php code
 ![image](https://user-images.githubusercontent.com/110176361/185810177-c5c3fd10-a533-4f35-ab8e-c98cae807841.png)
 
 see get to handling new direction 
+
 ![image](https://user-images.githubusercontent.com/110176361/185810229-e916352a-5366-4569-bf35-c83fc8c6006a.png)
 
 that's take a value of button from html input submit entity 
