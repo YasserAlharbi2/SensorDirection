@@ -2,8 +2,11 @@
 
 in this project we have 4 files 
 1- index.html ( webpage that have Robot control design and showing result)
+
 2- Left.php (that has an insert when click direction button )
+
 3- Right.php ( that show result of database when click Result )
+
 4- style.css (that have some style on index.html entity )
 
 
